@@ -32,3 +32,8 @@ not need to run migrations.
 ```bash
 python manage.py migrate
 ```
+#### Run
+```bash
+python manage.py runserver
+```
+Visit localhost:8000 in your browser to use.
